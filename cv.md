@@ -45,7 +45,7 @@ HTML, CSS, Sass, Responsive/Adaptive markup
 ## Experience
 
 ### Trainings and courses
-<a href="https://app.rs.school/certificate/l37syxw8">Rollig Scopes School - Javascript (2019)</a>
+<a href="https://app.rs.school/certificate/l37syxw8">Rollig Scopes School - Javascript (2019)</a>  
 <a href="https://www.codecademy.com/users/totally_jetalai/achievements">Codeacademy</a>  
 <a href="https://htmlacademy.ru/profile/id1017355/achievements">Htmlacademy</a>  
 ### Employment
